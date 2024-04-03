@@ -1,5 +1,4 @@
-[![heroding77's GitHub stats](https://github-readme-stats.vercel.app/api?username=heroding77&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heroding77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![heroding77's GitHub stats](https://github-readme-stats.vercel.app/api?username=heroding77&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
